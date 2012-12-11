@@ -1,6 +1,6 @@
 {
 	"name": "docpad-plugin-ejs",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Adds support for the Ejs templating engine to DocPad.",
 	"homepage": "http://docpad.org/plugin/ejs",
 	"keywords": [
